@@ -1,0 +1,12 @@
+{
+    "name": "hexlet/code",
+    "description": "Compares two configuration files and shows a difference",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Roman Ashikov",
+            "email": "rmn.shkv@gmail.com"
+        }
+    ],
+    "require": {}
+}
